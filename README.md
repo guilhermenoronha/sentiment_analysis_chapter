@@ -14,7 +14,8 @@ Digite num terminal os seguintes comandos:
 5. activate
 6. cd ../..
 7. pip install requirements.txt
-8. jupyter lab
+8. python -m spacy download pt_core_news_lg
+9. jupyter lab
 
 ## Dúvidas?
 Dúvidas e sugestões podem ser enviadas [aqui](https://github.com/guilhermenoronha/sentiment_analysis_chapter/issues).
